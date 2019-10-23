@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:macOSTest/macOSTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iOSTest/iOSTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ModalViews/ModalViews.xcodeproj">
+   </FileRef>
+</Workspace>
