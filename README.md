@@ -1,6 +1,15 @@
 # SwiftUI-ModalTest
 Check the behavior of Modal Views of SwiftUI
 
+## Update
+
+On macOS Big Sur Public Beta, this issue is resolved.
+
+### Resolved Environment
+
+- OS: macOS Big Sur 11.0
+- Xcode: Version 12.0 Beta
+
 ## Overview
 
 SwiftUI View has `.onAppear(perform:)` and `.onDisappear(perform:)` methods.
